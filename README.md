@@ -1,19 +1,21 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🚴‍♂️ Bike Type Counter 🚴‍♀️
+A fun web app built using JavaScript, HTML, and CSS to count different types of bikes! 🏁
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+🎯 Why This App?
+I’m a huge bike enthusiast and can’t wait to own my own ride soon! 🚲 Until that happens, I figured—why not keep track of all the cool bikes I see?
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+🛠️ Features
+✅ Count different bike types (e.g., Road Bike, Mountain Bike, BMX)
+✅ Simple & user-friendly interface
+✅ Reset & edit counts as needed
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+🚀 How to Use
+Spot a bike.
+Tap the corresponding button to increase the count.
+Keep counting and see how many different bikes you can find!
+💡 Future Plans
+Add a leaderboard to challenge friends.
+Implement a GPS tracker to tag where bikes were spotted.
+Introduce a photo upload feature for cool bike finds.
 
-Happy Coding!
+Until I get my own bike, let’s keep counting! 🚴‍♂️📊
